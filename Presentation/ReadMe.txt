@@ -1,1 +1,0 @@
-For this presentation, I have used Tableau as Business Intelligence tool to create a powerful graphical view of data. You can find some useful insights from each and every graph.
